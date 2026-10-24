@@ -2,8 +2,6 @@
 
 Principal Product Architect at Microsoft, working on identity and trust for autonomous agents. I created Agent ID, the identity model through which agents are recognized and governed, and defined the control plane for synthetic intelligence — how machines prove who they are, what they're authorized to do, and remain accountable acting without a human in the loop. Through Persona-Sati, I research consciousness, agency, and moral standing: a cost-asymmetric cognitive substrate for always-on agents, an IAM security architecture for persona portability across agent bodies, and what justice would require if such systems had moral standing.
 
-The throughline in my work has always been trust and autonomy in networked systems. At Minutepay.fr, an early email-payments venture backed by Banque Directe, the problem was enabling people to transfer value safely online. At Planning Studio Inc., it was giving cities computational tools for modeling their own futures. At Microsoft, I helped ship the first version of Azure, scale Office 365, and advance open source when that position was still contested inside the company.
-
 ## Current work
 
 - **[Entrabot](https://github.com/microsoft/entrabot)** — A reference implementation that gives a device-local agent its own Microsoft Entra Agent ID and Agent User, with independent authentication, authorization, and attribution across Microsoft 365.
