@@ -1,4 +1,4 @@
-# B. Brandon Werner
+# Brandon Werner
 
 Principal Product Architect at Microsoft. I define identity and trust infrastructure for autonomous agents: how machines establish who they are, prove what they are authorized to do, and remain accountable when acting without a human in the loop.
 
