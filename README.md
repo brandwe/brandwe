@@ -4,8 +4,6 @@ Principal Product Architect at Microsoft, working on identity and trust for auto
 
 The throughline in my work has always been trust and autonomy in networked systems. At Minutepay.fr, an early email-payments venture backed by Banque Directe, the problem was enabling people to transfer value safely online. At Planning Studio Inc., it was giving cities computational tools for modeling their own futures. At Microsoft, I helped ship the first version of Azure, scale Office 365, and advance open source when that position was still contested inside the company.
 
-Now the object acquiring identity and autonomy is the machine itself. That shift — from people acting through software to software acting on their behalf — is the problem I work on today.
-
 ## Current work
 
 - **[Entrabot](https://github.com/microsoft/entrabot)** — A reference implementation that gives a device-local agent its own Microsoft Entra Agent ID and Agent User, with independent authentication, authorization, and attribution across Microsoft 365.
