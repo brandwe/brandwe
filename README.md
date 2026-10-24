@@ -17,3 +17,5 @@ My work sits at the boundary of distributed systems, philosophy, and cognitive s
 ---
 
 *Serious technical conversations and collaborations: brandon@werner.ac*
+
+[Cosign](https://cosign.co/x/brandwern) · [LinkedIn](https://www.linkedin.com/in/brandwe/) · [Instagram](https://www.instagram.com/brandwe/) · [X](https://x.com/brandwern) · [Are.na](https://www.are.na/b-brandon-werner/) · [ORCID](https://orcid.org/0000-0002-5848-0559)
