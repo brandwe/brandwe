@@ -1,6 +1,6 @@
 # Brandon Werner
 
-Principal Product Architect at Microsoft, working on identity and trust for autonomous agents. I created Agent ID, the identity model through which agents are recognized and governed, and defined the control plane for synthetic intelligence — how machines prove who they are, what they're authorized to do, and remain accountable acting without a human in the loop. Through Persona-Sati, I research consciousness, agency, and moral standing: a cost-asymmetric cognitive substrate for always-on agents, an IAM security architecture for persona portability across agent bodies, and what justice would require if such systems had moral standing.
+Principal Product Architect at Microsoft, working on identity and trust for autonomous agents. I'm an inventor of Agent ID, the identity model through which agents are recognized and governed, and defined the control plane for synthetic intelligence — how machines prove who they are, what they're authorized to do, and remain accountable acting without a human in the loop. Through Persona-Sati, I research consciousness, agency, and moral standing: a cost-asymmetric cognitive substrate for always-on agents, an IAM security architecture for persona portability across agent bodies, and what justice would require if such systems had moral standing.
 
 ## Current work
 
